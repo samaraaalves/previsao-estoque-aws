@@ -1,43 +1,52 @@
-# 📊 Previsão de Estoque Inteligente na AWS com SageMaker Canvas
+📊 Previsão de Estoque Inteligente com Machine Learning
 
-## 📌 Objetivo do Projeto
+📌 Objetivo do Projeto
 
-Este projeto tem como objetivo demonstrar a criação de um modelo de Machine Learning para previsão de estoque utilizando o Amazon SageMaker Canvas, uma ferramenta da AWS que permite desenvolver modelos sem a necessidade de programação.
+Este projeto tem como objetivo aplicar técnicas de Machine Learning para prever a demanda futura de produtos com base em dados históricos.
 
-A proposta é prever a demanda futura de produtos com base em dados históricos, auxiliando na tomada de decisão e no planejamento de estoque.
+A solução busca auxiliar na tomada de decisão e no planejamento de estoque, reduzindo desperdícios e melhorando a eficiência.
 
----
+⸻
 
-## 📂 Dataset
+📂 Dataset
 
 O dataset utilizado contém informações relevantes para a previsão de estoque, como:
 
-- Data
-- Produto
-- Quantidade
-- Histórico de vendas
+* Data
+* Produto
+* Quantidade
+* Histórico de vendas
 
----
+⸻
 
-## ⚙️ Etapas do Projeto
+⚙️ Etapas do Projeto
 
-1. Seleção do dataset  
-2. Importação no SageMaker Canvas  
-3. Treinamento do modelo  
-4. Análise dos resultados  
-5. Geração de previsões  
+1. Seleção e organização dos dados
+2. Análise exploratória dos dados
+3. Tratamento e preparação dos dados
+4. Aplicação de técnicas de previsão
+5. Análise dos resultados
+6. Geração de previsões
 
----
+⸻
 
-## 📈 Insights
+🛠️ Tecnologias utilizadas
 
-- Previsão de demanda futura  
-- Melhor controle de estoque  
-- Redução de perdas  
-- Apoio à tomada de decisão  
+* Python
+* Bibliotecas para análise de dados (ex: pandas, numpy)
+* Visual Studio Code
 
----
+⸻
 
-## 🚀 Conclusão
+📈 Insights
 
-O uso do SageMaker Canvas permite criar modelos de Machine Learning de forma simples e eficiente, facilitando a análise de dados e a previsão de estoque sem necessidade de programação.
+* Previsão de demanda com base em dados históricos
+* Melhor controle de estoque
+* Redução de perdas
+* Apoio à tomada de decisão baseada em dados
+
+⸻
+
+🚀 Conclusão
+
+O projeto demonstra, na prática, como o uso de Python e técnicas de Machine Learning podem gerar valor real para o negócio, transformando dados em informações estratégicas.
